@@ -1,0 +1,126 @@
+.main {
+  width: 1000px;
+  height: 500px;
+  background-color: rgb(185, 229, 25);
+  color: white;
+}
+.row1 {
+  height: 50px;
+  width: 1000px;
+}
+.name {
+  height: 50px;
+  width: 1000px;
+  text-align: center;
+  background-color: rgb(21, 130, 225);
+  color: black;
+}
+.row2 {
+  height: 40px;
+  width: 1000px;
+}
+.row2-col1 {
+  height: 40px;
+  width: 250px;
+  background-color: aqua;
+  float: left;
+}
+.row2-col2 {
+  height: 40px;
+  width: 250px;
+  background-color: rgb(30, 136, 136);
+  float: left;
+}
+.row2-col3 {
+  height: 40px;
+  width: 250px;
+  background-color: rgb(17, 210, 52);
+  float: left;
+}
+.row2-col4 {
+  height: 40px;
+  width: 250px;
+  background-color: aqua;
+  float: left;
+}
+.row3 {
+  height: 200px;
+  width: 1000px;
+  background-color: bisque;
+}
+.row3-col1 {
+  height: 200px;
+  width: 200px;
+  background-color: brown;
+  float: left;
+}
+.row3-col2 {
+  height: 200px;
+  width: 800px;
+  background-color: black;
+  float: left;
+}
+.row3-col1-row1 {
+  height: 50px;
+  width: 200px;
+  background-color: rgb(219, 13, 13);
+  float: left;
+}
+.row3-col1-row2 {
+  height: 50px;
+  width: 200px;
+  background-color: rgb(30, 136, 136);
+  float: left;
+}
+.row3-col1-row3 {
+  height: 50px;
+  width: 200px;
+  background-color: rgb(193, 17, 125);
+  float: left;
+}
+.row3-col1-row4 {
+  height: 50px;
+  width: 200px;
+  background-color: rgb(8, 201, 60);
+  float: left;
+}
+.row4 {
+  height: 50px;
+  width: 1000px;
+  background-color: peru;
+  float: left;
+}
+.skills {
+  text-align: center;
+  color: rgb(8, 201, 60);
+}
+.row5 {
+  height: 100px;
+  width: 1000px;
+}
+.row5-col1 {
+  height: 100px;
+  width: 333px;
+  background-color: aliceblue;
+  float: left;
+  color: black;
+}
+.row5-col2 {
+  height: 100px;
+  width: 333px;
+  background-color: beige;
+  float: left;
+  color: black;
+}
+.row5-col3 {
+  height: 100px;
+  width: 333px;
+  background-color: blueviolet;
+  color: black;
+  float: left;
+}
+.last-p {
+  text-align: center;
+  font-size: medium;
+  font-style: oblique;
+}
