@@ -1,9 +1,12 @@
+
 .main {
   background-color: rgb(66, 186, 66);
-  height: 230px;
+  height: 270px;
   width: 200px;
   margin: auto;
   padding: auto;
+  border: 2px solid green;
+  border-radius: 4%;
 }
 .email {
     height: 20px;
